@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+task_management/__init__.py
+task_management/task.py
+task_management_library.egg-info/PKG-INFO
+task_management_library.egg-info/SOURCES.txt
+task_management_library.egg-info/dependency_links.txt
+task_management_library.egg-info/top_level.txt
+tests/__init__.py
+tests/test_task.py
